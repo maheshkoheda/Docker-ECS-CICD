@@ -28,3 +28,6 @@ Setup Instructions
 2.	Configure AWS credentials in Jenkins for ECR and ECS.
 3.	Set up SonarQube server and connect it with Jenkins.
 4.	Push the Pipeline Script to Jenkins and trigger the build.
+
+<img width="792" alt="jenkins2" src="https://github.com/user-attachments/assets/5f1bcb2a-ba87-4135-8828-11465ddf868b" />
+
